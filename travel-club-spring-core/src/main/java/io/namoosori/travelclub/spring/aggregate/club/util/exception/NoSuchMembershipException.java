@@ -1,4 +1,4 @@
-package io.namoosori.travelclub.spring.util.exception;
+package io.namoosori.travelclub.spring.aggregate.club.util.exception;
 
 public class NoSuchMembershipException extends RuntimeException {
 	//

@@ -4,7 +4,7 @@ import io.namoosori.travelclub.spring.aggregate.Entity;
 import io.namoosori.travelclub.spring.aggregate.club.vo.Address;
 import io.namoosori.travelclub.spring.shared.NameValue;
 import io.namoosori.travelclub.spring.shared.NameValueList;
-import io.namoosori.travelclub.spring.util.exception.InvalidEmailException;
+import io.namoosori.travelclub.spring.aggregate.club.util.exception.InvalidEmailException;
 import lombok.Getter;
 import lombok.Setter;
 

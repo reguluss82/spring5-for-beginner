@@ -4,7 +4,7 @@ import io.namoosori.travelclub.spring.aggregate.Entity;
 import io.namoosori.travelclub.spring.aggregate.club.vo.RoleInClub;
 import io.namoosori.travelclub.spring.shared.NameValue;
 import io.namoosori.travelclub.spring.shared.NameValueList;
-import io.namoosori.travelclub.spring.util.helper.DateUtil;
+import io.namoosori.travelclub.spring.aggregate.club.util.helper.DateUtil;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
